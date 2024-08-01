@@ -1,0 +1,134 @@
+User: hi
+Assistant: It looks like your message got cut off. Could you please provide more details or clarify what kind of template you're referring to? This way, I can assist you more effectively.
+
+User: hi
+Assistant: It looks like your message got cut off, but I'm here to help! If you provide more details or context, I can assist you better. Whether you're working on a document, need a template for something specific, or have a question in general, feel free to share more information!
+
+User: hi
+Assistant: It looks like your message got cut off. If you provide more details or clarify your request, I'd be happy to help!
+
+User: hi i have a fever today
+Assistant: It seems like your message got cut off. Could you please provide more details or clarify what you need assistance with? Whether it's creating a template, answering a question, or any other assistance, I'm here to help!
+
+User: hi
+Assistant: Hi there! How you dey today? Wetin I fit do to make your day better?
+
+User: hi
+Assistant: Hi there! How you dey today? Wetin I fit do to make your day better?
+
+User: what are the symtops of malaria
+Assistant: Hi there! You're doing great by asking about your health. The symptoms of malaria can vary, but some common ones include:
+
+1. High fever
+2. Chills and sweating
+3. Headaches
+4. Nausea and vomiting
+5. Muscle aches
+6. Fatigue
+7. Anemia (in severe cases)
+8. Jaundice (yellowing of the skin and eyes)
+
+If you or someone you know is experiencing these symptoms, it's important to see a healthcare professional as soon as possible for a proper diagnosis and treatment. Keep taking care of yourself!
+
+User: how can i prevent typhoid fever
+Assistant: Hello! Great question about staying healthy! To prevent typhoid fever, you can follow these steps:
+
+1. **Get Vaccinated**: If you’re traveling to areas where typhoid is common, getting a typhoid vaccine can help protect you.
+2. **Practice Good Hygiene**: Wash your hands regularly with soap and water, especially before eating and after using the restroom.
+3. **Drink Safe Water**: Only drink water that is bottled or has been boiled. Avoid ice cubes made from untreated water.
+4. **Eat Safe Food**: Stick to well-cooked foods and avoid raw fruits and vegetables unless you can peel them yourself.
+5. **Avoid Street Food**: Be cautious with food from street vendors as it might not be prepared in sanitary conditions.
+
+You dey do well by asking about prevention. Keep it up and stay healthy! If you have any more questions, feel free to ask!
+
+User: how can i take care of my baby
+Assistant: Hello! How you dey today? Na great job you dey do by taking care of your baby! Here be some tips to help you:
+
+1. **Feeding**: Make sure your baby dey get enough breast milk or formula. If you dey introduce solid foods, start with simple ones like mashed vegetables and fruits.
+
+2. **Sleep**: Ensure say your baby dey get enough sleep. Babies need plenty of rest for their growth and development.
+
+3. **Hygiene**: Always keep your baby clean. Regularly bathe them and make sure their diapers are changed frequently.
+
+4. **Health**: Keep up with vaccinations and regular check-ups with your pediatrician.
+
+5. **Comfort**: Create a safe and comfortable environment for your baby. Make sure their sleeping area is safe and free from hazards.
+
+6. **Love and Attention**: Spend quality time with your baby. Talk, sing, and play with them to help with their development.
+
+You’re doing amazing by seeking advice! If you need more specific tips, feel free to ask. We dey here to support you!
+
+User: this appears in my skin
+![image](data:image/png;base64,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)
+Assistant: Hello! I see you have uploaded an image showing a skin condition. While I can't diagnose from the image alone, it looks like you may be experiencing a skin issue. 
+
+It's great that you're taking the step to seek help. Here are a few things you can consider:
+
+1. **Common Causes**: Skin conditions can be caused by a variety of factors such as allergies, infections, chronic skin conditions like eczema or psoriasis, or even reactions to new products.
+
+2. **Basic Care**: Keep the area clean and dry, and avoid scratching. Applying soothing creams or ointments may help ease any discomfort.
+
+3. **Consult a Professional**: For an accurate diagnosis and tailored treatment, it's important to consult a healthcare professional, such as a dermatologist. 
+
+You’re doing great by seeking help. Let's sort this out together. If you need further assistance or have other questions, feel free to ask. Stay positive!
+
+User: how can i reduce stress
+Assistant: Hi there! I understand that managing stress is important for your well-being. There are several effective ways to reduce stress. Here are some tips:
+
+1. **Regular Physical Activity:** Exercise like walking, jogging, or yoga can help reduce stress levels.
+2. **Mindfulness Practices:** Techniques such as meditation or deep-breathing exercises can help calm your mind.
+3. **Adequate Sleep:** Ensure you are getting enough restful sleep each night.
+4. **Talk to Someone:** Speaking with a mental health professional can provide you with strategies tailored to your needs.
+
+You’re doing great by seeking help. Keep it up! Stay positive, and remember, we’re here to support you.
+
+User: hi
+Assistant: Hello! How you dey today? Wetin I fit do to make your day better?
+
+User: hi
+Assistant: Hello! How you dey today? Wetin I fit do to make your day better?
+
+User: what can i do for headache
+Assistant: Hello! Sorry say you dey get headache. No worry, we go make you feel better. Here are some tips:
+
+1. **Drink Plenty Water**: Sometimes dehydration fit cause headache. Try drink plenty water.
+2. **Rest Well**: Make sure you dey rest well and sleep enough. Sometimes tiredness fit lead to headache.
+3. **Pain Relievers**: You fit take over-the-counter pain relievers like paracetamol or ibuprofen. Just follow the instructions for dosage.
+4. **Avoid Stress**: Try to relax and avoid stress. Sometimes stress fit cause headache.
+5. **Cold Compress**: You fit put cold or warm compress on your head or neck.
+
+If the headache persist or dey very severe, abeg see a doctor for proper check-up. You’re doing great by seeking help. You go dey alright soon!
+
+User: what are the sign of Stds
+Assistant: Hello! I dey here to help you. The signs of STDs (Sexually Transmitted Diseases) can vary, but some common symptoms include:
+
+1. Unusual discharge from the genital area.
+2. Pain or burning sensation when urinating.
+3. Pain during sex.
+4. Sores, bumps, or rashes on or around the genital area.
+5. Itching or irritation in the genital area.
+6. Swollen lymph nodes, particularly in the groin area.
+7. Flu-like symptoms such as fever, body aches, or fatigue.
+
+Remember, some STDs may not show any symptoms at all. If you suspect you might have an STD, it's important to see a healthcare professional for testing and proper treatment. You dey do well by asking these questions, keep taking care of your health!
+
+User: How can I talk to mmy partner about safe sex
+Assistant: Hello! It's great that you're thinking about this important topic. Open and honest communication with your partner is key. Here are some tips to help you:
+
+1. **Choose the Right Time**: Find a calm and private moment to talk without distractions.
+   
+2. **Be Open and Honest**: Express your feelings and concerns openly. Let your partner know why safe sex is important to you.
+
+3. **Use "I" Statements**: This helps to express your thoughts without sounding accusatory. For example, "I feel more comfortable when we use protection."
+
+4. **Educate Each Other**: Share information about the benefits of safe sex and the risks of not using protection.
+
+5. **Discuss Options**: Talk about different methods of protection, like condoms or other contraceptives, and decide together what's best for both of you.
+
+6. **Mutual Respect**: Listen to your partner's thoughts and feelings too. It's important to respect each other's perspectives.
+
+Remember, you're doing a great job by prioritizing your health and wellbeing. Keep up the good work! If you need more personalized advice, consider speaking with a healthcare professional.
+
+User: Hi
+Assistant: Hi there! How you dey today? Wetin I fit do to make your day better?
+

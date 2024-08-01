@@ -1,0 +1,126 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimodal Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .chat-box {
+            width: 100%;
+            max-height: 400px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+        .message {
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            background: #f1f1f1;
+        }
+        .message.user {
+            background: #d1e7fd;
+        }
+        .message.bot {
+            background: #ffeeba;
+        }
+        .input-group {
+            display: flex;
+            width: 100%;
+            gap: 10px;
+        }
+        input[type="text"] {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        input[type="file"] {
+            flex-grow: 1;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            background: #007bff;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="chat-box" id="chat-box"></div>
+        <div class="input-group">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <input type="file" id="file-input" accept="image/*,audio/*">
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chainlit"></script>
+    <script>
+        const chatBox = document.getElementById('chat-box');
+        const userInput = document.getElementById('user-input');
+        const fileInput = document.getElementById('file-input');
+        const sendBtn = document.getElementById('send-btn');
+
+        function appendMessage(content, sender) {
+            const message = document.createElement('div');
+            message.classList.add('message', sender);
+            message.textContent = content;
+            chatBox.appendChild(message);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        sendBtn.addEventListener('click', async () => {
+            const text = userInput.value;
+            const file = fileInput.files[0];
+
+            if (!text && !file) {
+                alert('Please provide a message or a file.');
+                return;
+            }
+
+            let elements = [];
+            if (file) {
+                const element = await cl.Message.createElement(file);
+                elements.push(element);
+            }
+
+            const msg = new cl.Message({
+                content: text,
+                elements: elements
+            });
+
+            appendMessage(text, 'user');
+
+            const response = await msg.send();
+            appendMessage(response.content, 'bot');
+
+            userInput.value = '';
+            fileInput.value = '';
+        });
+    </script>
+</body>
+</html>
